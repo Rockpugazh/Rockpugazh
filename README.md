@@ -81,7 +81,7 @@ print(me.currently_building())
 ## <img src="https://img.icons8.com/fluency/48/source-code.png" width="28" valign="middle"/> Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,fastapi,postgres,mongodb,docker,git,github,html,css,tailwind,vite,vscode,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,fastapi,postgres,mongodb,docker,git,github,html,css,tailwind,vscode&theme=dark" />
 </p>
 
 <p align="center"><b>Data Science & ML</b></p>
