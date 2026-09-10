@@ -150,12 +150,11 @@ Model Deployment at Scale &nbsp;<img src="https://progress-bar.xyz/60?scale=100&
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🤟 Real-Time ASL Recognition</h3>
-      <p>Real-time American Sign Language recognizer using hand-landmark detection and a Random Forest classifier over a live webcam feed.</p>
+      <h3>🤟 Retail Demand Forecasting & Inventory Optimization</h3>
+      <p>Ensemble ML (Random Forest, XGBoost, LightGBM) over ~76K daily retail records, with Safety Stock / Reorder Point / EOQ formulas and a Streamlit dashboard</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/>
         <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logoColor=white"/>
-        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
         <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
       </p>
       <a href="PROJECT_3_REPO_URL"><img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
@@ -179,7 +178,8 @@ Model Deployment at Scale &nbsp;<img src="https://progress-bar.xyz/60?scale=100&
 
 | Project | Description | Stack |
 |---|---|---|
-| **Retail Demand Forecasting & Inventory Optimization** | Ensemble ML (Random Forest, XGBoost, LightGBM) over ~76K daily retail records, with Safety Stock / Reorder Point / EOQ formulas and a Streamlit dashboard | `Python` `scikit-learn` `Streamlit` |
+Real-Time ASL Recognition Real-time American Sign Language recognizer using hand-landmark detection and a Random Forest classifier over a live webcam feed.
+| **Real-Time ASL Recognition** | Real-time American Sign Language recognizer using hand-landmark detection and a Random Forest classifier over a live webcam feed. | `Python` `scikit-learn` `OpenCv` `Streamlit` |
 | **SLATE** | Netflix content-type predictor using a Random Forest classifier on engineered features | `Python` `Flask` `scikit-learn` |
 | **Customer Churn Forecasting** | Multi-classifier churn system with SMOTE balancing and automated risk scoring on synthetic telecom data | `Python` `scikit-learn` `SMOTE` |
 | **RFM & Cohort Analysis** | Customer segmentation (11 named segments) with cohort retention curves and a generated PDF report | `Python` `pandas` `ReportLab` |
@@ -258,7 +258,7 @@ This animates your contribution graph as a snake eating your commit squares. It 
 ## <img src="https://img.icons8.com/fluency/48/contacts.png" width="28" valign="middle"/> Connect With Me
 
 <p align="left">
-  <a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/pugazh-v-3680402a3)" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/pugazh-v-3680402a3" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://github.com/Rockpugazh" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="mailto:pugazh271118@example.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://pugazh-profile.netlify.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
