@@ -193,8 +193,8 @@ Model Deployment at Scale &nbsp;<img src="https://progress-bar.xyz/60?scale=100&
 ## <img src="https://img.icons8.com/fluency/48/prize.png" width="28" valign="middle"/> Certifications & Achievements
 
 <p>
+🎓 &nbsp;<b>Microsoft – Fundamentals of Generative AI <br/><br/>
 🎓 &nbsp;<b>NPTEL – Python for Data Science (Silver Medal) <br/><br/>
-🎓 &nbsp;<b>NPTEL – Microsoft – Fundamentals of Generative AI <br/><br/>
 🏆 &nbsp;Capstone: <b>Retail Demand Forecasting & Inventory Optimization</b> — delivered with a full 10-page project report<br/><br/>
 🧑‍💻 &nbsp;Hackathon winner — built <b>NeuroNest</b>, an adaptive learning platform for neurodivergent students
 </p>
@@ -242,7 +242,7 @@ Model Deployment at Scale &nbsp;<img src="https://progress-bar.xyz/60?scale=100&
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
+  <img src="https://raw.githubusercontent.com/Rockpugazh/Rockpugazh/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
 </div>
 
 This animates your contribution graph as a snake eating your commit squares. It needs a one-time setup in **your** profile repo:
@@ -259,9 +259,9 @@ This animates your contribution graph as a snake eating your commit squares. It 
 
 <p align="left">
   <a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/pugazh-v-3680402a3)" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="[YOUR_GITHUB_URL](https://github.com/Rockpugazh)" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://github.com/Rockpugazh" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="mailto:pugazh271118@example.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="[YOUR_PORTFOLIO_URL](https://pugazh-profile.netlify.app/)" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://pugazh-profile.netlify.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 </p>
 
 <br/>
