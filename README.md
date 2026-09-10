@@ -9,7 +9,7 @@
 <p>
   <img src="https://img.shields.io/badge/CHENNAI%2C_INDIA-0EA5E9?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0D1117"/>
   <a href="mailto:pugazh271118@gmail.com.com"><img src="https://img.shields.io/badge/YOUR_EMAIL-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117"/></a>
-  <a href="[https://pugazh-profile.netlify.app/]s"><img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117"/></a>
+  <a href="[https://pugazh-profile.netlify.app/]"><img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117"/></a>
 </p>
 
 <a href="#">
