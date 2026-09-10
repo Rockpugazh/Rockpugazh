@@ -178,7 +178,6 @@ Model Deployment at Scale &nbsp;<img src="https://progress-bar.xyz/60?scale=100&
 
 | Project | Description | Stack |
 |---|---|---|
-Real-Time ASL Recognition Real-time American Sign Language recognizer using hand-landmark detection and a Random Forest classifier over a live webcam feed.
 | **Real-Time ASL Recognition** | Real-time American Sign Language recognizer using hand-landmark detection and a Random Forest classifier over a live webcam feed. | `Python` `scikit-learn` `OpenCv` `Streamlit` |
 | **SLATE** | Netflix content-type predictor using a Random Forest classifier on engineered features | `Python` `Flask` `scikit-learn` |
 | **Customer Churn Forecasting** | Multi-classifier churn system with SMOTE balancing and automated risk scoring on synthetic telecom data | `Python` `scikit-learn` `SMOTE` |
