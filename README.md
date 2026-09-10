@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="#"><img src="https://ibb.co/L7XmcKc              type=waving&color=0:38BDF8,50:0EA5E9,100:0C4A6E&height=230&section=header&text=PUGAZH&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20%26%20Data%20Science%20%7C%20Full-Stack%20ML%20Engineer&descAlignY=58&descSize=18" width="100%"/></a>
+<a href="#"><img src="[https://ibb.co/L7XmcKc](https://ibb.co/L7XmcKc"><img src="https://i.ibb.co/4rnzXkX/Prof-image.jpg)              type=waving&color=0:38BDF8,50:0EA5E9,100:0C4A6E&height=230&section=header&text=PUGAZH&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20%26%20Data%20Science%20%7C%20Full-Stack%20ML%20Engineer&descAlignY=58&descSize=18" width="100%"/></a>
 
 <a href="#">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0EA5E9&center=true&vCenter=true&width=650&lines=Building+End-to-End+ML+Systems;Explainable+AI+%7C+SHAP+%7C+Ensemble+Models;Full-Stack+ML+Apps+%E2%80%94+React+%2B+FastAPI" alt="Typing SVG" />
