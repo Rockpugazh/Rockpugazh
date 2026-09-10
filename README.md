@@ -13,7 +13,7 @@
 </p>
 
 <a href="#">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0EA5E9&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=Rockpugazh&label=Profile%20Views&color=0EA5E9&style=for-the-badge"/>
 </a>
 <a href="[YOUR_GITHUB_URL](https://github.com/Rockpugazh)/followers">
   <img src="https://img.shields.io/github/followers/Rockpugazh?label=Followers&style=for-the-badge&color=0EA5E9&labelColor=0D1117"/>
