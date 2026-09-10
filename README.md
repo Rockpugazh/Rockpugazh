@@ -15,7 +15,7 @@
 <a href="#">
   <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0EA5E9&style=for-the-badge"/>
 </a>
-<a href="YOUR_GITHUB_URL/followers">
+<a href="[YOUR_GITHUB_URL](https://github.com/Rockpugazh)/followers">
   <img src="https://img.shields.io/github/followers/Rockpugazh?label=Followers&style=for-the-badge&color=0EA5E9&labelColor=0D1117"/>
 </a>
 
@@ -193,9 +193,10 @@ Model Deployment at Scale &nbsp;<img src="https://progress-bar.xyz/60?scale=100&
 ## <img src="https://img.icons8.com/fluency/48/prize.png" width="28" valign="middle"/> Certifications & Achievements
 
 <p>
-🎓 &nbsp;<b>AI & Data Science Program</b> — GUVI HCL (6-month intensive, Jan–Jul 2026)<br/><br/>
+🎓 &nbsp;<b>NPTEL – Python for Data Science (Silver Medal) <br/><br/>
+🎓 &nbsp;<b>NPTEL – Microsoft – Fundamentals of Generative AI <br/><br/>
 🏆 &nbsp;Capstone: <b>Retail Demand Forecasting & Inventory Optimization</b> — delivered with a full 10-page project report<br/><br/>
-🧑‍💻 &nbsp;iQOO Hackathon — built <b>NeuroNest</b>, an adaptive learning platform for neurodivergent students
+🧑‍💻 &nbsp;Hackathon winner — built <b>NeuroNest</b>, an adaptive learning platform for neurodivergent students
 </p>
 
 <br/>
@@ -204,26 +205,26 @@ Model Deployment at Scale &nbsp;<img src="https://progress-bar.xyz/60?scale=100&
 ## <img src="https://img.icons8.com/fluency/48/combo-chart.png" width="28" valign="middle"/> GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=3600&bg_color=0D1117&title_color=38BDF8&icon_color=0EA5E9&text_color=C9D1D9&border_color=0EA5E9"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&hide_border=true&include_all_commits=true&count_private=true&layout=compact&cache_seconds=3600&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&border_color=0EA5E9"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Rockpugazh&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=3600&bg_color=0D1117&title_color=38BDF8&icon_color=0EA5E9&text_color=C9D1D9&border_color=0EA5E9"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rockpugazh&hide_border=true&include_all_commits=true&count_private=true&layout=compact&cache_seconds=3600&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&border_color=0EA5E9"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&hide_border=true&background=0D1117&border=0EA5E9&ring=0EA5E9&fire=38BDF8&currStreakNum=ffffff&sideNums=C9D1D9&currStreakLabel=0EA5E9&sideLabels=C9D1D9&dates=8b949e&v=2" alt="GitHub Streak Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rockpugazh&hide_border=true&background=0D1117&border=0EA5E9&ring=0EA5E9&fire=38BDF8&currStreakNum=ffffff&sideNums=C9D1D9&currStreakLabel=0EA5E9&sideLabels=C9D1D9&dates=8b949e&v=2" alt="GitHub Streak Stats"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=algolia&no-frame=true&row=1&column=6&margin-w=8&margin-h=8" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Rockpugazh&theme=algolia&no-frame=true&row=1&column=6&margin-w=8&margin-h=8" alt="GitHub Trophies"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph/?username=YOUR_GITHUB_USERNAME&theme=react-dark&bg_color=0D1117&color=0EA5E9&line=0EA5E9&point=38BDF8&area=true&hide_border=true&custom_title=Contribution+Activity" alt="GitHub Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph/?username=Rockpugazh&theme=react-dark&bg_color=0D1117&color=0EA5E9&line=0EA5E9&point=38BDF8&area=true&hide_border=true&custom_title=Contribution+Activity" alt="GitHub Activity Graph"/>
 </div>
 
 <br/>
@@ -257,10 +258,10 @@ This animates your contribution graph as a snake eating your commit squares. It 
 ## <img src="https://img.icons8.com/fluency/48/contacts.png" width="28" valign="middle"/> Connect With Me
 
 <p align="left">
-  <a href="YOUR_LINKEDIN_URL" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="YOUR_GITHUB_URL" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="mailto:YOUR_EMAIL@example.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="YOUR_PORTFOLIO_URL" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/pugazh-v-3680402a3)" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="[YOUR_GITHUB_URL](https://github.com/Rockpugazh)" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="mailto:pugazh271118@example.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="[YOUR_PORTFOLIO_URL](https://pugazh-profile.netlify.app/)" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 </p>
 
 <br/>
