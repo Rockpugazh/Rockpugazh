@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="#"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:0EA5E9,100:0C4A6E&height=230&section=header&text=PUGAZH&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20%26%20Data%20Science%20%7C%20Full-Stack%20ML%20Engineer&descAlignY=58&descSize=18" width="100%"/></a>
+<a href="#"><img src="https://ibb.co/L7XmcKc              type=waving&color=0:38BDF8,50:0EA5E9,100:0C4A6E&height=230&section=header&text=PUGAZH&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20%26%20Data%20Science%20%7C%20Full-Stack%20ML%20Engineer&descAlignY=58&descSize=18" width="100%"/></a>
 
 <a href="#">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0EA5E9&center=true&vCenter=true&width=650&lines=Building+End-to-End+ML+Systems;Explainable+AI+%7C+SHAP+%7C+Ensemble+Models;Full-Stack+ML+Apps+%E2%80%94+React+%2B+FastAPI" alt="Typing SVG" />
@@ -9,13 +9,13 @@
 <p>
   <img src="https://img.shields.io/badge/CHENNAI%2C_INDIA-0EA5E9?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0D1117"/>
   <a href="mailto:pugazh271118@gmail.com.com"><img src="https://img.shields.io/badge/YOUR_EMAIL-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117"/></a>
-  <a href="[https://pugazh-profile.netlify.app/]"><img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117"/></a>
+  <a href="https://pugazh-profile.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117"/></a>
 </p>
 
 <a href="#">
   <img src="https://komarev.com/ghpvc/?username=Rockpugazh&label=Profile%20Views&color=0EA5E9&style=for-the-badge"/>
 </a>
-<a href="(https://github.com/Rockpugazh)/followers">
+<a href="https://github.com/Rockpugazh/followers">
   <img src="https://img.shields.io/github/followers/Rockpugazh?label=Followers&style=for-the-badge&color=0EA5E9&labelColor=0D1117"/>
 </a>
 
